@@ -1,0 +1,9 @@
+{
+	"name": "ARMTestingADF",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0426269f-2846-4232-9b89-49b094d2d5de",
+		"tenantId": "45f95e3a-b725-490d-83f1-a8c18a487a7a"
+	}
+}
